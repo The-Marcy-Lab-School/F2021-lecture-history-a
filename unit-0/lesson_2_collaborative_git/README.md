@@ -4,22 +4,19 @@
 Fellows will be able to...
 * Understand GitHub as a tool for collaboration and as remote host of git repositories.
 * Understand GitHub as a social media platform for career development.
+* Use Markdown to format their writing
 * Create a branch through the Github GUI and the CLI.
+* Merge in branches
+* Resolve merge conflicts through the CLI.
 * Fork a repository.
 * Create a pull request.
-* Resolve merge conflicts through the Github GUI and CLI.
+* Resolve merge conflicts through the Github GUI.
 
-## Learning Assignments
-1. [Video on Git Branches](https://www.youtube.com/watch?v=oPpnCh7InLY)
-2. [Video on Forks and Pull Requests](https://www.youtube.com/watch?v=_NrSWLQsDL4)
-3. [Video on Merge Conflicts](https://www.youtube.com/watch?v=JtIX3HJKwfo)
 
-____
-
-### Optional Learning
-
-#### Additional Resources
-* [Getting started with Git and GitHub: the complete beginner’s guide](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
-
-#### Extend Your Learning
-Git branching and merging is one of the most complicated topics to conceptualize. The Coding Train does a pretty good jobs breaking down all sorts of git topics explaining them from the perspective of GUI and CLI. You can check out their [Youtube Playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+### Git Commands
+* `git checkout -b <branch-name>` to create a new branch and switch to it
+* `git checkout <branch-name>` to switch branches
+* `git branch <branch-name>` to create a new branch but doesn't siwtch to it
+* `git branch` to list all branches. A branch doesn't exist until there is at least one commit in it
+* `git merge <branch-name>` means you are merging the commits in branch-name INTO the current branch you are on!
+* `git branch -d <branch-name>` to delete branch. You can't delete branch you are currently on
