@@ -1,0 +1,33 @@
+main {
+    background-color: rgb(238,238,238);
+}
+
+body {
+    text-align: center;
+    font-family: Arial;
+}
+
+.title {
+    color: #333333;
+}
+
+#main-figure{
+    background-color: white;
+    padding: 10px;
+}
+
+section, blockquote {
+    width: 625px;
+    margin: auto;
+    text-align: left
+}
+
+h3 {
+    text-align: center
+}
+
+/*
+type selector : write the name of the tag
+id selectors : write # before the id
+class selectors : write . before the class
+/
