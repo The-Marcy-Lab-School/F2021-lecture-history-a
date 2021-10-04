@@ -1,0 +1,50 @@
+table, table * {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.friday{
+    background-color: deeppink;
+}
+
+table{
+    background-color: red
+}
+  
+thead{
+   /*background-color: blue;*/
+}
+
+tbody{
+    /*background-color: green;*/
+}
+
+th[scope="row"]{
+  background-color: beige;  
+}
+
+th {
+    width: 200px;
+    background-color: gray;
+}
+
+tr:nth-child(2n){
+    background-color: whitesmoke
+} 
+
+td { 
+    width: 200px;
+    padding: 15px;
+    /*background-color: whitesmoke*/
+}
+
+tr { /*rows*/
+    height: 75px;
+    /*background-color: yellow;*/
+}
+
+tfoot{
+    text-align: center;
+    background-color: lightgray;
+}
+
