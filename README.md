@@ -7,5 +7,6 @@
 
 ## Unit 1
 * 10/01 - HTML and CSS: [video](https://us02web.zoom.us/rec/share/dLxQ9IgtCuZyeDFd4kPl2k_SEePoR2Y3LBYaRJZFyUvCMJj-hGkC7QmUbYv_Jtcf.u3mkXacS7iGap9Vu?startTime=1633095143000)
-* 10/03 - Box Model Layout: [video](https://us02web.zoom.us/rec/share/cC_hXBw8b483Wm-P0zT6Nh66wt4X-MlulViDBufX7c3ZHBYMLcosi5WZXuzMeww4.nOq-3RfaEk1wD9zR?startTime=1633358751000)
-* 10/03 - Tables: [video](https://us02web.zoom.us/rec/share/wgrZ0rvvik7pjRSN8lsLQjjsutkUlzRIUkFl6sVEiJIzMT7Pmtquo7-sWSZ5k3k.oi9Rw-d--WmgapDa?startTime=1633367556000)
+* 10/04 - Box Model Layout: [video](https://us02web.zoom.us/rec/share/cC_hXBw8b483Wm-P0zT6Nh66wt4X-MlulViDBufX7c3ZHBYMLcosi5WZXuzMeww4.nOq-3RfaEk1wD9zR?startTime=1633358751000)
+* 10/04 - Tables: [video](https://us02web.zoom.us/rec/share/wgrZ0rvvik7pjRSN8lsLQjjsutkUlzRIUkFl6sVEiJIzMT7Pmtquo7-sWSZ5k3k.oi9Rw-d--WmgapDa?startTime=1633367556000)
+* 10/05 - FizzBuzz Code Challenge: [video](https://us02web.zoom.us/rec/share/jPpE6loVbu8MsE8ErNWlnP7j92EZx0mIvCLq4J8Rm3fF27z4Bl46c4QGm439sHDE.mgHVkzgsCAzdD8BV?startTime=1633442143000)
