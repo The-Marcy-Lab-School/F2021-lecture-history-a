@@ -1,0 +1,53 @@
+h1 {
+    color: purple;
+}
+
+table, table td {
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+
+td {
+    width: 150px;
+    height: 75px;
+    text-align: center;
+}
+
+/*#first-col{*/
+/*    background-color: whitesmoke;*/
+/*    border: 2px solid yellow;*/
+/*}*/
+
+.first{
+    border-left: 10px solid green;    
+    border-right: 10px solid yellow;    
+}
+
+.a {
+    border-top: 10px solid pink;
+}
+
+.i {
+    border-bottom: 10px solid blue;
+}
+
+#fourth-col{
+    background-color: lightgray;
+    border: 5px solid darkgray;
+}
+
+tr:nth-child(1n) {
+  background-color: lime;
+}
+
+/*#first{*/
+/*    background-color: red;*/
+/*}*/
+
+/*#third-col{*/
+/*    background-color: blue;*/
+/*}*/
+
+/*#second {*/
+/*    background-color: blue;*/
+/*}*/

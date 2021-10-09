@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box
+}
+
+/*body {*/
+/*    background-color: gray;*/
+/*}*/
+
+main {
+    border: 1px solid gray;
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    position: relative;
+}
+
+.red {
+    position: absolute;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    border: 20px solid black;
+}
+
+.blue {
+    position: absolute;
+    left: 150px;
+    background-color: blue;
+    width: 200px;
+    height: 70px;
+    border: 15px solid black;
+    padding: 10px 50px;
+    background-clip: content-box, padding-box;
+}
+
+.green-outer {
+    top: 200px;
+    /*left: 300px;*/
+    right: 50px;
+    position: absolute;
+    background-color: white;
+    width: 200px;
+    height: 70px;
+    border: 15px solid black;
+    padding: 10px 50px;
+    box-shadow: 0px 2px 3px;
+}
+
+.green-inner {
+    background-color: green;
+    width: 70px;
+    height: 20px;
+}
