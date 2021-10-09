@@ -10,3 +10,5 @@
 * 10/04 - Box Model Layout: [video](https://us02web.zoom.us/rec/share/cC_hXBw8b483Wm-P0zT6Nh66wt4X-MlulViDBufX7c3ZHBYMLcosi5WZXuzMeww4.nOq-3RfaEk1wD9zR?startTime=1633358751000)
 * 10/04 - Tables: [video](https://us02web.zoom.us/rec/share/wgrZ0rvvik7pjRSN8lsLQjjsutkUlzRIUkFl6sVEiJIzMT7Pmtquo7-sWSZ5k3k.oi9Rw-d--WmgapDa?startTime=1633367556000)
 * 10/05 - FizzBuzz Code Challenge: [video](https://us02web.zoom.us/rec/share/jPpE6loVbu8MsE8ErNWlnP7j92EZx0mIvCLq4J8Rm3fF27z4Bl46c4QGm439sHDE.mgHVkzgsCAzdD8BV?startTime=1633442143000)
+* 10/06 - Forms: [Erwins' video](https://us02web.zoom.us/rec/play/qQA8ib11W66buNnN6od6MxWkqzrXNiEmq2MZCInl2JmZfjaVsEWoJFXuW-ma9BMyeMlmiQLBuFOVkwcu.XJwQJD7dXWZM7Uhl?continueMode=true)
+* 10/08 - HTML Review: [video](https://us02web.zoom.us/rec/share/EyafKIXGxCQorznHpj0-NS1CTB2JEpR1JNNeDRdYma0gIOS3fC5z8rkHg0gfQOkS.vQLs7h4Jo1EupQd8?startTime=1633699847000)
