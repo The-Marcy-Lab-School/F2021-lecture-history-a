@@ -15,3 +15,5 @@
 * 10/12 - Flexbox: [video](https://us02web.zoom.us/rec/share/-1cjXdxymv9z3hDA3oDrw5Loq5-fn2Js5wNuMs4pLd6h_am741mBD9uA9YYDu_iw.4nq0YKxKwq6_Ug6M?startTime=1634049037000)
 * 10/12 - CSS Grid: [video](https://us02web.zoom.us/rec/share/5O4uqqcdKyUIKSJtkSXdsmfOW9BxrxJEVLTI94oILxxbOwDabV427VDkPkQ10F4R.Ai6laUT5k3Hs2EJw?startTime=1634058103000)
 * 10/12 - Git Review: [video](https://us02web.zoom.us/rec/share/5O4uqqcdKyUIKSJtkSXdsmfOW9BxrxJEVLTI94oILxxbOwDabV427VDkPkQ10F4R.Ai6laUT5k3Hs2EJw?startTime=1634064389000)
+* 10/13 - Responsive Design: [video](https://us02web.zoom.us/rec/share/CUTg_gT38YH3kBpStwfBggmKtrSWut4I4suXVzW3BlE5cGAbecaSWnnA4ZiJUipn.ngVGmpeIsaNcHFCo?startTime=1634137579000)
+* 10/13 - Abstract Art Office Hours: [video](https://us02web.zoom.us/rec/share/kS46tofbmnKFPUgj25_QVvBwEs507aywju-VYP350hzRPJ9HdM2iCbH9Ruqca4c4.BwoVqJd3HL60R0nF?startTime=1634149127000)
