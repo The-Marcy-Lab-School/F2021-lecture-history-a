@@ -12,3 +12,6 @@
 * 10/05 - FizzBuzz Code Challenge: [video](https://us02web.zoom.us/rec/share/jPpE6loVbu8MsE8ErNWlnP7j92EZx0mIvCLq4J8Rm3fF27z4Bl46c4QGm439sHDE.mgHVkzgsCAzdD8BV?startTime=1633442143000)
 * 10/06 - Forms: [Erwins' video](https://us02web.zoom.us/rec/play/qQA8ib11W66buNnN6od6MxWkqzrXNiEmq2MZCInl2JmZfjaVsEWoJFXuW-ma9BMyeMlmiQLBuFOVkwcu.XJwQJD7dXWZM7Uhl?continueMode=true)
 * 10/08 - HTML Review: [video](https://us02web.zoom.us/rec/share/EyafKIXGxCQorznHpj0-NS1CTB2JEpR1JNNeDRdYma0gIOS3fC5z8rkHg0gfQOkS.vQLs7h4Jo1EupQd8?startTime=1633699847000)
+* 10/12 - Flexbox: [video](https://us02web.zoom.us/rec/share/-1cjXdxymv9z3hDA3oDrw5Loq5-fn2Js5wNuMs4pLd6h_am741mBD9uA9YYDu_iw.4nq0YKxKwq6_Ug6M?startTime=1634049037000)
+* 10/12 - CSS Grid: [video](https://us02web.zoom.us/rec/share/5O4uqqcdKyUIKSJtkSXdsmfOW9BxrxJEVLTI94oILxxbOwDabV427VDkPkQ10F4R.Ai6laUT5k3Hs2EJw?startTime=1634058103000)
+* 10/12 - Git Review: [video](https://us02web.zoom.us/rec/share/5O4uqqcdKyUIKSJtkSXdsmfOW9BxrxJEVLTI94oILxxbOwDabV427VDkPkQ10F4R.Ai6laUT5k3Hs2EJw?startTime=1634064389000)
