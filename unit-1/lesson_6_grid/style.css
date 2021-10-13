@@ -1,0 +1,24 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-size: 25px;
+	font-family: Arial;
+	color: white;
+	background: lightgray;
+	padding: 45px 20px;
+}
+
+.container {
+	padding: 5px;
+	background: white;
+}
+
+.box {
+	padding: 15px;
+	background: dodgerblue; 
+	/*border-radius: 5px;*/
+	border: 1px solid black;
+}
+
