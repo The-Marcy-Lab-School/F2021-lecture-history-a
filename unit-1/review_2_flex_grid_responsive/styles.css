@@ -1,0 +1,138 @@
+body {
+    background-color: blue;
+    height: 100vh;
+}
+
+.greet {
+    background-color: red;    
+}
+
+.hello {
+    width: 50%;
+}
+
+.hi {
+    width: 50vw;
+}
+
+iframe {
+    display: block;
+}
+
+main {
+    height: 100%;
+}
+
+.div-1{
+    width: 20vw;
+    height: 30vh;
+    background-color: green;
+}
+
+.div-2 {
+    display: inline-block;
+    width: 20%;
+    height: 30%;
+    background-color: orange;
+}
+
+@media (max-width: 500px){
+    body{
+        background-color: red;
+    }
+    
+    iframe {
+        display: none;
+    }
+}
+
+
+
+/*main {*/
+/*    display: grid;*/
+/*    grid-template-columns: 1fr 1fr 1fr;*/
+/*    grid-template-rows: 1fr 1fr 1fr;*/
+/*}*/
+
+/*div {*/
+/*    border: solid black 2px;*/
+/*    height: 300px;*/
+/*}*/
+
+/*.div-2 {*/
+/*    display: grid;*/
+/*    grid-template-columns: 1fr 1fr 1fr;*/
+/*    grid-template-rows: 1fr 1fr 1fr;*/
+/*}*/
+
+/*article {*/
+/*    border: solid green 1px;*/
+/*}*/
+
+/*.div-1 {*/
+/*    display: flex;*/
+/*    justify-content: space-evenly;*/
+/*}*/
+
+/*section {*/
+/*    border: 1px solid red;*/
+/*}*/
+
+
+/*main {*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+    /*justify-content: space-evenly;*/
+/*}*/
+
+/*section {*/
+/*    display: flex;*/
+/*}*/
+
+/*div {*/
+/*    border: solid gray 2px;*/
+/*    margin: 50px;*/
+/*    padding: 40px;*/
+/*}*/
+
+
+
+
+
+
+/*div {*/
+/*    display: inline-block;*/
+/*    border: solid gray 2px;*/
+/*    margin: 50px;*/
+/*    padding: 40px;*/
+/*}*/
+
+/*h1 ~ details {*/
+/*    background-color: green;*/
+/*}*/
+
+/*apply to all p tags that are descendants of article*/
+/*article p {*/
+/*    background-color: red!important;*/
+/*}*/
+
+/*apply to all p tags that are DIRECT children of article*/
+/*article > p {*/
+/*    background-color: orange;*/
+/*}*/
+
+/*p {*/
+/*    background-color: blue;*/
+/*}*/
+
+/*#world {*/
+/*    background-color: purple;*/
+/*}*/
+
+/*#cohort{*/
+/*    background-color: green;*/
+/*}*/
+
+/*.a {*/
+/*    background-color: yellow;*/
+/*}*/
