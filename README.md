@@ -19,3 +19,6 @@
 * 10/13 - Abstract Art Office Hours: [video](https://us02web.zoom.us/rec/share/kS46tofbmnKFPUgj25_QVvBwEs507aywju-VYP350hzRPJ9HdM2iCbH9Ruqca4c4.BwoVqJd3HL60R0nF?startTime=1634149127000)
 * 10/15 - HTML & CSS Review: [video](https://us02web.zoom.us/rec/play/wCePPAGTkLR7mJprhAZamnX0sC5BrRWQsIY0mwzfttvkq-MbggWP2pEblLMcq-nJn_9ogc9g_XDRmuTm.dyFIOQkhvSY0UAZt?continueMode=true)
 * 10/25 - Project Presentations: [video](https://us02web.zoom.us/rec/share/xKF_UoPx_GQmnnjie6y0Dj-07FivJXO6O0mzPy1j_CBafJdcJYINBz0n8wTdF4es.frMxhgOclkwObLXK?startTime=1635170978000)
+
+## Unit 2
+* 10/26 - JS, Types & Operators: [video](https://us02web.zoom.us/rec/play/UG2rYoGGly-J1xDFROSUglatB0nC1YNGYB_otB7zfTl267mWTrHClGVtsREhp2vzCsBd_vrZ7r-4LA.F7tLaRoNnAUcYkDA?continueMode=true&_x_zm_rtaid=oulk7rlbRECSbqOMljAWNg.1635268730672.7146c45ca5a2f1b327659911f34de94a&_x_zm_rhtaid=131)
