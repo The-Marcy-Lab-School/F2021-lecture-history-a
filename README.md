@@ -17,3 +17,5 @@
 * 10/12 - Git Review: [video](https://us02web.zoom.us/rec/share/5O4uqqcdKyUIKSJtkSXdsmfOW9BxrxJEVLTI94oILxxbOwDabV427VDkPkQ10F4R.Ai6laUT5k3Hs2EJw?startTime=1634064389000)
 * 10/13 - Responsive Design: [video](https://us02web.zoom.us/rec/share/CUTg_gT38YH3kBpStwfBggmKtrSWut4I4suXVzW3BlE5cGAbecaSWnnA4ZiJUipn.ngVGmpeIsaNcHFCo?startTime=1634137579000)
 * 10/13 - Abstract Art Office Hours: [video](https://us02web.zoom.us/rec/share/kS46tofbmnKFPUgj25_QVvBwEs507aywju-VYP350hzRPJ9HdM2iCbH9Ruqca4c4.BwoVqJd3HL60R0nF?startTime=1634149127000)
+* 10/15 - HTML & CSS Review: [video](https://us02web.zoom.us/rec/play/wCePPAGTkLR7mJprhAZamnX0sC5BrRWQsIY0mwzfttvkq-MbggWP2pEblLMcq-nJn_9ogc9g_XDRmuTm.dyFIOQkhvSY0UAZt?continueMode=true)
+* 10/25 - Project Presentations: [video](https://us02web.zoom.us/rec/share/xKF_UoPx_GQmnnjie6y0Dj-07FivJXO6O0mzPy1j_CBafJdcJYINBz0n8wTdF4es.frMxhgOclkwObLXK?startTime=1635170978000)
