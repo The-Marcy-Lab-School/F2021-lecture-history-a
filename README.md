@@ -22,3 +22,4 @@
 
 ## Unit 2
 * 10/26 - JS, Types & Operators: [video](https://us02web.zoom.us/rec/play/UG2rYoGGly-J1xDFROSUglatB0nC1YNGYB_otB7zfTl267mWTrHClGVtsREhp2vzCsBd_vrZ7r-4LA.F7tLaRoNnAUcYkDA?continueMode=true&_x_zm_rtaid=oulk7rlbRECSbqOMljAWNg.1635268730672.7146c45ca5a2f1b327659911f34de94a&_x_zm_rhtaid=131)
+* 10/27 - Variables, Control Flow, Loops: [video](https://us02web.zoom.us/rec/play/bpE2QKKbpHJ2hAW-__iXQNwzDFfs7zwS_SuWN_tuiko2WUpDETa06O6AOUE6NcXSleXgslrPcczaRun7.lqgQTKbz5U-xmRCz?continueMode=true&_x_zm_rtaid=Dyhep77rRaqzkB8NqV4r6A.1635358189096.69072070e625d16049ae85e5d608405b&_x_zm_rhtaid=113)
