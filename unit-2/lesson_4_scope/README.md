@@ -8,8 +8,9 @@
 * function scope
 * lexical scope
 * lexical environment
-* author time
-* run time
+
+## Great Resource
+- [Scope & Lexical Environment](https://dev.to/abdulazizcode/scope-lexical-environment-4pdd)
 
 ## Essential Questions
 * How do variables declared with `var`, `let`, and `const` differ?
