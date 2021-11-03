@@ -26,3 +26,4 @@
 * 10/29 - Functions: [video](https://us02web.zoom.us/rec/play/YGJmwHG_EWBJmXLW_EoQw-ZIm5VtnnrRvcRx5DWTkW0FGXl4M1Rc4-H_UkMbn6feMzV5fXI7V5K2jXZk.TTYQMtCWifZ9migO?continueMode=true&_x_zm_rtaid=o3J6GWXGRMKGugZvxxq-WQ.1635521318348.c5b40116dbe1987f99fef6cf756f4d57&_x_zm_rhtaid=978)
 * 11/01 - Review: [video](https://us02web.zoom.us/rec/share/TAAYvehLBWjeTbPcgaW8bEqF-66D0epPGACqLnNbjUTkcozhDajd3g2gWTPxaizw.Gc90b4ObkUxU5eMc)
 * 11/01 - Scope: [video](https://us02web.zoom.us/rec/play/fWDdi2uZmMCD-meRXpo7LPki20n_oEmlmO7AdN5oiamAtaamJSZ776rwyoVwm2YBlkBFGR_XOqXRfLaj.T7nGdV6gZlAisPeC?continueMode=true&_x_zm_rtaid=60tUh2OFR_q7IbRdLWc6CA.1635793434748.1cd628d34dc01130b78c33a344a7ed6d&_x_zm_rhtaid=346)
+* 11/03 - Arrays: [video](https://us02web.zoom.us/rec/play/xCBF0PQNlriNIuC6LJ1MYgHyW12FjXphvBdmofUW_dhvT1c6nPovWGXNhMb51crGw0Qj0vrLebLjyjzC.jpx9hKKXVEAgEURt?continueMode=true&_x_zm_rtaid=weroNmkoQimBJyLFh9olHw.1635968336916.e8df1953f4ffe4eecd39c8334bc7e2c8&_x_zm_rhtaid=879)
