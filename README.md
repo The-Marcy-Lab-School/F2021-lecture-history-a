@@ -31,4 +31,5 @@
 * 11/04 - Problem Set 2-5 (Arrays) Office Hours: [video](https://us02web.zoom.us/rec/play/YufNwr1TRBBtJG6H6-M6vi3mxSfUdu6gcEpX8r1NuvxI2xkWkwUi-9FuTeK3TsilJdyYYQKnZGPuy6PK.yY_K8t71hx5QNjvF?continueMode=true&_x_zm_rtaid=RWqYJ4g-QLymqaG_3ksrFg.1636056164891.a49340a5a61adba14556c77df91ccfe5&_x_zm_rhtaid=716)
 * 11/05 - More Arrays: [video](https://us02web.zoom.us/rec/play/hkDBX1tfqV9ZELAHBCJ06O3dueiBrBJUl2BewleQEDaFXgyR62miB9s5bTq_z5lrec3CpvwguKJ8Zh9X.5swveltMK9l5LrHn?continueMode=true&_x_zm_rtaid=2SK7mFp5TIaYRYYXYaLqlA.1636129185738.6f739a20a9d2d47f5be1596dc326dd9d&_x_zm_rhtaid=64)
 * 11/08 - Objects: [video](https://us02web.zoom.us/rec/share/sR9UGnXZ4-ESW1FVlD_ZJ6_B1J_Nnppmp672Ie0FODbL-FI0rVisFjYRZafKJ5VF.k0ZQuR_xrogZGqYi?startTime=1636385832000)
-* 11/08 - JS Reviwe: [video](https://us02web.zoom.us/rec/share/wEXQ49W3YU8QOPI-PMTau8gqFR9IoXCtfmMAezVvhR5ectqNi4HtlVRPiDRe4zwG.JS_c4WHdFHiPKi2k?startTime=1636395307000)
+* 11/08 - JS Review: [video](https://us02web.zoom.us/rec/share/wEXQ49W3YU8QOPI-PMTau8gqFR9IoXCtfmMAezVvhR5ectqNi4HtlVRPiDRe4zwG.JS_c4WHdFHiPKi2k?startTime=1636395307000)
+* 11/09 - Problelm Set 2-6 (Objects) Office Hours: [video](https://us02web.zoom.us/rec/play/tSgJENLhmM5swrtfjZdJ5-JfRzsC-wCDvfRcSGrBLOJ38TiXnoPxkuagvayZ9vVxJjHEMalqv6DkeOWk.duDlO3tj2znvTUtn?continueMode=true)
