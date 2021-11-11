@@ -33,4 +33,5 @@
 * 11/08 - Objects: [video](https://us02web.zoom.us/rec/share/sR9UGnXZ4-ESW1FVlD_ZJ6_B1J_Nnppmp672Ie0FODbL-FI0rVisFjYRZafKJ5VF.k0ZQuR_xrogZGqYi?startTime=1636385832000)
 * 11/08 - JS Review: [video](https://us02web.zoom.us/rec/share/wEXQ49W3YU8QOPI-PMTau8gqFR9IoXCtfmMAezVvhR5ectqNi4HtlVRPiDRe4zwG.JS_c4WHdFHiPKi2k?startTime=1636395307000)
 * 11/09 - Problelm Set 2-6 (Objects) Office Hours: [video](https://us02web.zoom.us/rec/play/tSgJENLhmM5swrtfjZdJ5-JfRzsC-wCDvfRcSGrBLOJ38TiXnoPxkuagvayZ9vVxJjHEMalqv6DkeOWk.duDlO3tj2znvTUtn?continueMode=true)
-* 11/01 - Unit 2 Review: [video](https://us02web.zoom.us/rec/play/fmsKzOLxJo7BPhspAkMDkZ7F1bCbiZDap1IDdJfUazGXGnGz_b_fJIhhUCtkkgx2pC_ro3DBhTWYOVR8.UHf3kiCzWBQnn_A9?continueMode=true)
+* 11/10 - Unit 2 Review: [video](https://us02web.zoom.us/rec/play/fmsKzOLxJo7BPhspAkMDkZ7F1bCbiZDap1IDdJfUazGXGnGz_b_fJIhhUCtkkgx2pC_ro3DBhTWYOVR8.UHf3kiCzWBQnn_A9?continueMode=true)
+* 11/11 - Study Session: [video](https://us02web.zoom.us/rec/play/7Kx4j50DwR1s18M0d_5qzKjmU2XhJhZ72UE88Yu5H5YtRiHQkIO_aBiADPyydZZdrVEbBHYpJQ1i6S9-.E872EY4HYkI70QR1?continueMode=true)
