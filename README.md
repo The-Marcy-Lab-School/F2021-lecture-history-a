@@ -36,3 +36,4 @@
 * 11/10 - Unit 2 Review: [video](https://us02web.zoom.us/rec/play/fmsKzOLxJo7BPhspAkMDkZ7F1bCbiZDap1IDdJfUazGXGnGz_b_fJIhhUCtkkgx2pC_ro3DBhTWYOVR8.UHf3kiCzWBQnn_A9?continueMode=true)
 * 11/11 - Study Session: [video](https://us02web.zoom.us/rec/play/7Kx4j50DwR1s18M0d_5qzKjmU2XhJhZ72UE88Yu5H5YtRiHQkIO_aBiADPyydZZdrVEbBHYpJQ1i6S9-.E872EY4HYkI70QR1?continueMode=true)
 * 11/12 - Study Session: [video](https://us02web.zoom.us/rec/play/OH5VLKa77xB8P6vyNAe0QsDUfdXkxz7RStvVMjny8lrQMDzCmv7nkzCZ0dGKTdibeeiz6C_XaDzfMLZs.o5GY48xybNxzWMwq?continueMode=true)
+* 11/16 - Study Session: [video](https://us02web.zoom.us/rec/play/j-ADI9NmLvfDuMr97j0xlW4JQVToY4z0WLHTKp_CgzBqa6Xn10_3PA6Te8zyTGXZjOOqItsn0nMqDQlx.KLAZ70lk0-Gudkh_?continueMode=true&_x_zm_rtaid=loF7baBgS32TOCApwkHHaw.1637097923283.44150951d866f77146bc6e46b4d584f1&_x_zm_rhtaid=391)
