@@ -37,3 +37,8 @@
 * 11/11 - Study Session: [video](https://us02web.zoom.us/rec/play/7Kx4j50DwR1s18M0d_5qzKjmU2XhJhZ72UE88Yu5H5YtRiHQkIO_aBiADPyydZZdrVEbBHYpJQ1i6S9-.E872EY4HYkI70QR1?continueMode=true)
 * 11/12 - Study Session: [video](https://us02web.zoom.us/rec/play/OH5VLKa77xB8P6vyNAe0QsDUfdXkxz7RStvVMjny8lrQMDzCmv7nkzCZ0dGKTdibeeiz6C_XaDzfMLZs.o5GY48xybNxzWMwq?continueMode=true)
 * 11/16 - Study Session: [video](https://us02web.zoom.us/rec/play/j-ADI9NmLvfDuMr97j0xlW4JQVToY4z0WLHTKp_CgzBqa6Xn10_3PA6Te8zyTGXZjOOqItsn0nMqDQlx.KLAZ70lk0-Gudkh_?continueMode=true&_x_zm_rtaid=loF7baBgS32TOCApwkHHaw.1637097923283.44150951d866f77146bc6e46b4d584f1&_x_zm_rhtaid=391)
+
+## Unit 3
+* 11/29 - Functional Abstractions: [video](https://us02web.zoom.us/rec/share/Dxokvuk827VqOPpcTanwItK6D7ytxZvvHJstGy_it9aDsLVSxEClC65Ar40mcmWZ.bwR-CdKia9yqhuzN?startTime=1638200181000)
+* 11/29 - Functional Abstractions: [video](https://us02web.zoom.us/rec/share/XW06j8MpBWOGLfCUVikhxkhoGwfqQsbukphfD_gNHLtpFnxd0PAi09bhTNjTIwI0.MUNZcy8jnsEMLJtM?startTime=1638209144000)
+* 11/30 - Office Hours (Problem Set 3-0): [video](https://us02web.zoom.us/rec/share/XoO8BBAKzf8G_GxBIhgwff_hk_AzZEmmDn20B-Grxt8--jcYJdaeJU5iJBvw36Iu.mu46epnKVosIF5_y?startTime=1638289248000)
