@@ -44,3 +44,4 @@
 * 11/30 - Office Hours (Problem Set 3-0): [video](https://us02web.zoom.us/rec/share/XoO8BBAKzf8G_GxBIhgwff_hk_AzZEmmDn20B-Grxt8--jcYJdaeJU5iJBvw36Iu.mu46epnKVosIF5_y?startTime=1638289248000)
 * 12/01 - String Processing and Regex: [video](https://us02web.zoom.us/rec/share/7YG2FhbInqR115du7qmbG7OqUbmg89uybcDxgGhFHa5VaO5ZIIZJYTg8nYIe5jza.aTD3eVWggyUKDtxe?startTime=1638374728000)
 * 12/01 - Office Hours (Problem Set 3-1): [video](https://us02web.zoom.us/rec/share/ZDZBfmoE4RckFUlyPat5q5ySFZNdvEv5jYphpSvsNm1r9W15mPwn5mPjyPLvd5ZL.bc-gO6Sc-E6ChSge?startTime=1638384570000)
+* 12/03 - PEDAC Review: [video](https://us02web.zoom.us/rec/share/qdOtw2mbql9CJkf1WxypU7wUWC33VHi7i_Q5114JsfUU998srYAze40urBL23hro.gVppUSjnAILY4iRU?startTime=1638542084000)
