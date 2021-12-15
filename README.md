@@ -49,3 +49,10 @@
 ## Unit 4
 * 12/06 - Understanding Objects: [video](https://us02web.zoom.us/rec/share/AcJfbdpDM9wBP6QLoYPjgTZXlMiJKms_JtSKQNy0DzsSUOeNbUsf56zHe-MFVunL.oyHce2HKe2aU53m8?startTime=1638804737000)
 * 12/06 - Execution Context: [video](https://us02web.zoom.us/rec/share/V5hjlftEja_mKBPz-mZ6NrVAc6xgw005ljjmdeL2Qme0SAOL9JYKuBbyZf9zTImt.JQYVUayzh_0espNS?startTime=1638815453000)
+* 12/07 - Office Hours (Problem Set 4-0): [video](https://us02web.zoom.us/rec/share/o8onsS74eYgffPfF997-VWDRVDbhBcm5Sn96Y4uW6-4SnyZhPUdg4TDb-nFJK0P-.p3rQx5GvceMlx1lR?startTime=1638903309000)
+* 12/08 - Closures: [video](https://us02web.zoom.us/rec/play/5jAuz80PAQ0yaSIrFvjuL_WoGSLSMqlOVAFdFuITL0iefIPbsZB9KlQYkaQGO3uNpGz8nK8ap05IUOw.i7fkkSkp76PlCjYo?startTime=1638979759000)
+* 12/08 - Office Hours (Problem Set 4-0): [video](https://us02web.zoom.us/rec/share/G4I0xR8gqSiBI9tJY15GuiRySzqLZXtifeGYG5CbYr-Z3IKpd1Ot6DDmpSAYf7QV.Z4sG2C5cc3Mf4OjG?startTime=1638989546000)
+* 12/10 - Review: [video](https://us02web.zoom.us/rec/share/hckPHPHpHJh45MQA_biju6qNvOBFyZTuDTw4d2fth8Yz2kbZVlOv-j4z-ol159Qr.oydtNLwNbQ71Jhdk?startTime=1639146786000)
+* 12/13 - Constructor and Prototype: [video](https://us02web.zoom.us/rec/share/4XqlSmlJIsJPN-SCeiMsUEKBVqU2xzq5ZcJjVLs7Hyav_aC3-FiLHZdeC3yz0b0h.biQYlUY1RFpGUYWI?startTime=1639409660000)
+* 12/13 - ES6 Classes: [video](https://us02web.zoom.us/rec/share/TAgvfdz2kPJWTyj7U1yENxO2StPWFwDn934E_XZONlwKJnqQwCapa18ZtY5HfEk.4gE3468kkiC4gZ-d?startTime=1639419217000)
+* 12/15 - Inheritance and OO Design: [video](https://us02web.zoom.us/rec/share/QUzVEbNMSS3mEc-4Unhy0sZm8dujlijV9jAZw-Us4Nf8oC1JPss6ktXQqOK1dtcc.5fJ0WPz0g7PZBHC0?startTime=1639584888000)
