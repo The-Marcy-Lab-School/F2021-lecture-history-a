@@ -55,3 +55,4 @@
 * 12/10 - Review: [video](https://us02web.zoom.us/rec/share/hckPHPHpHJh45MQA_biju6qNvOBFyZTuDTw4d2fth8Yz2kbZVlOv-j4z-ol159Qr.oydtNLwNbQ71Jhdk?startTime=1639146786000)
 * 12/13 - Constructor and Prototype: [video](https://us02web.zoom.us/rec/share/4XqlSmlJIsJPN-SCeiMsUEKBVqU2xzq5ZcJjVLs7Hyav_aC3-FiLHZdeC3yz0b0h.biQYlUY1RFpGUYWI?startTime=1639409660000)
 * 12/13 - ES6 Classes: [video](https://us02web.zoom.us/rec/share/TAgvfdz2kPJWTyj7U1yENxO2StPWFwDn934E_XZONlwKJnqQwCapa18ZtY5HfEk.4gE3468kkiC4gZ-d?startTime=1639419217000)
+* 12/15 - Inheritance and OO Design: [video](https://us02web.zoom.us/rec/share/QUzVEbNMSS3mEc-4Unhy0sZm8dujlijV9jAZw-Us4Nf8oC1JPss6ktXQqOK1dtcc.5fJ0WPz0g7PZBHC0?startTime=1639584888000)
