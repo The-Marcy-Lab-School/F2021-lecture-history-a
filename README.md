@@ -62,3 +62,4 @@
 
 ## Unit X
 * 01/12 - Big O: [video](https://us02web.zoom.us/rec/play/wCg7KPfvmrueC3hGmpsE1IPTwNrWDwqJYCQEWZftXLhkEy7FtnM8Olse0VfVP8qfzGiajA34nWKzGdN2.3PZz5Pv1eV4J_D4W?continueMode=true&_x_zm_rtaid=SMP6lXC2SwOOe2KmXxIbXw.1642084265709.c37dea5d47c82158acedd502711d0a34&_x_zm_rhtaid=58)
+* 01/13 - Linked Lists: [video](https://us02web.zoom.us/rec/play/ZimOOHFaCEbDWPKGlLNjDc9ZOF6l-EP3wWffGSwfVxA_DFYJekbCE0i9JxEt5mkgukabZW31iDxGukio.t7GZJOZlHA2Bf8Wv?continueMode=true&_x_zm_rtaid=g0oAqkoUTKmCRxE_qaussw.1642107994621.c9ef25b080d3fa8304210acd34eca8a9&_x_zm_rhtaid=310)
