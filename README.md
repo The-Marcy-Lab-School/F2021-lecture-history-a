@@ -59,3 +59,6 @@
 * 01/04 - Unit 4 Review: [video](https://us02web.zoom.us/rec/share/4eDIffqUyUxxE2XSvIZeMYogKz2z78KMGwXlWijMvVKOd60SM-hY2VEVbhSBeRi8.H6sBpa1D3VAFwZre?startTime=1641310365000)
 * 01/04 - OO Design Amazon: [video](https://us02web.zoom.us/rec/share/Dnoy6L_VYRbGpf7EScT_QP3pWQc7wPNDJjO4us0t57Qo5_s6VHErsS7iJJ6a1gY.hGieIQKR-OAT3yow?startTime=1641319469000)
 * 01/07 - Unit 4 Review: [video](https://us02web.zoom.us/rec/play/mIdfUsStfiE9cnPTvVCHH_lPyVrvNCHSSJ8ad1lY2shpjETvB60fceh6is21rBzK0EeCinzYzhMowdUx.sxdXcdYhA9UW59OQ?continueMode=true)
+
+## Unit X
+* 01/12 - Big O: [video](https://us02web.zoom.us/rec/play/wCg7KPfvmrueC3hGmpsE1IPTwNrWDwqJYCQEWZftXLhkEy7FtnM8Olse0VfVP8qfzGiajA34nWKzGdN2.3PZz5Pv1eV4J_D4W?continueMode=true&_x_zm_rtaid=SMP6lXC2SwOOe2KmXxIbXw.1642084265709.c37dea5d47c82158acedd502711d0a34&_x_zm_rhtaid=58)
