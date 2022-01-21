@@ -66,3 +66,4 @@
 * 01/18 - Stacks and Queues: [video](https://us02web.zoom.us/rec/play/m1O2dXG7c0tVFSAhJ1-CcO388TdDhhIQcWsTcoYn_9spMwmF9Ji7FeoBb6r6Eq6fxnlMb2vU5nK4N65M.YbwL7prU5xorwlpQ?continueMode=true&_x_zm_rtaid=6NI3kU_ZQ4GOZBCgd_Dmig.1642531894305.579ff03df5ba5d73a4b519fedc5f7915&_x_zm_rhtaid=272)
 * 01/19 - Hash Maps: [video](https://us02web.zoom.us/rec/play/fKOib4Ocq4hcXBeD3yqKLL_2W3oGXc8pl9rmeNLQwjFFCGr84fNYUIb1AqLuP2IH_jsw9R2IMXLUNAM2.NUEUGA80JoYAXDag?continueMode=true)
 * 01/19 - Linked List Office Hours: [video](https://us02web.zoom.us/rec/play/SPoMoi-OPWfITE-zrZU7FCFPCJxc7oCAdWovfJH5pa1Vst9V0qgd_Uk3j3lrc85z9G1mZvSbI3wuisZP.Og5MhYLS8emPy3BQ?continueMode=true)
+* 01/20 - Recursion: [video](https://us02web.zoom.us/rec/play/zSnWouI_zhl39ZQyIEeeHg3jD64BcJ3l28rYymNNlTWmdpCqhqS5bS8A75tuuMDgX0x-CI_zswWzS3_j.WZ_Ps74-olYOl_t_?continueMode=true&_x_zm_rtaid=EVYqaiorSP6_V_uV0pGCtw.1642735198211.dcf3380c57aab48b0a6e6797c6fb830e&_x_zm_rhtaid=165)
