@@ -67,3 +67,4 @@
 * 01/19 - Hash Maps: [video](https://us02web.zoom.us/rec/play/fKOib4Ocq4hcXBeD3yqKLL_2W3oGXc8pl9rmeNLQwjFFCGr84fNYUIb1AqLuP2IH_jsw9R2IMXLUNAM2.NUEUGA80JoYAXDag?continueMode=true)
 * 01/19 - Linked List Office Hours: [video](https://us02web.zoom.us/rec/play/SPoMoi-OPWfITE-zrZU7FCFPCJxc7oCAdWovfJH5pa1Vst9V0qgd_Uk3j3lrc85z9G1mZvSbI3wuisZP.Og5MhYLS8emPy3BQ?continueMode=true)
 * 01/20 - Recursion: [video](https://us02web.zoom.us/rec/play/zSnWouI_zhl39ZQyIEeeHg3jD64BcJ3l28rYymNNlTWmdpCqhqS5bS8A75tuuMDgX0x-CI_zswWzS3_j.WZ_Ps74-olYOl_t_?continueMode=true&_x_zm_rtaid=EVYqaiorSP6_V_uV0pGCtw.1642735198211.dcf3380c57aab48b0a6e6797c6fb830e&_x_zm_rhtaid=165)
+* 01/24 - Trees: [video](https://us02web.zoom.us/rec/share/aPfZ1XteccjGhMDJCSEvCcOg0QuQ4QqLORmbu7WSr99bHLKipvxMgBNqQrRVRcek.rR0q9Y7dRVLywzlY?startTime=1643038465000)
