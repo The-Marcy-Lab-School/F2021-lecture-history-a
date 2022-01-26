@@ -69,3 +69,4 @@
 * 01/20 - Recursion: [video](https://us02web.zoom.us/rec/play/zSnWouI_zhl39ZQyIEeeHg3jD64BcJ3l28rYymNNlTWmdpCqhqS5bS8A75tuuMDgX0x-CI_zswWzS3_j.WZ_Ps74-olYOl_t_?continueMode=true&_x_zm_rtaid=EVYqaiorSP6_V_uV0pGCtw.1642735198211.dcf3380c57aab48b0a6e6797c6fb830e&_x_zm_rhtaid=165)
 * 01/24 - Trees: [video](https://us02web.zoom.us/rec/share/aPfZ1XteccjGhMDJCSEvCcOg0QuQ4QqLORmbu7WSr99bHLKipvxMgBNqQrRVRcek.rR0q9Y7dRVLywzlY?startTime=1643038465000)
 * 01/25 - Graphs: [video](https://us02web.zoom.us/rec/share/h5DB93PGzP-RTFODSkU_n2Iq3NS6lB2OxdgRPkr4K8xOPyUV75bBQM6DpW3aJ2sG.im_D9f_J0C-_jCoi?startTime=1643124869000)
+* 01/26 - Sorting: [video](https://us02web.zoom.us/rec/share/C7_Lpym4hN0lunXxC957MmHeZ_aosm80moyPCbE_SndJhMyia_AMh4zP0BIuaUKM.Ymz9g2Wq3RJV99xV?startTime=1643212548000)
