@@ -63,3 +63,10 @@
 ## Unit X
 * 01/12 - Big O: [video](https://us02web.zoom.us/rec/play/wCg7KPfvmrueC3hGmpsE1IPTwNrWDwqJYCQEWZftXLhkEy7FtnM8Olse0VfVP8qfzGiajA34nWKzGdN2.3PZz5Pv1eV4J_D4W?continueMode=true&_x_zm_rtaid=SMP6lXC2SwOOe2KmXxIbXw.1642084265709.c37dea5d47c82158acedd502711d0a34&_x_zm_rhtaid=58)
 * 01/13 - Linked Lists: [video](https://us02web.zoom.us/rec/play/ZimOOHFaCEbDWPKGlLNjDc9ZOF6l-EP3wWffGSwfVxA_DFYJekbCE0i9JxEt5mkgukabZW31iDxGukio.t7GZJOZlHA2Bf8Wv?continueMode=true&_x_zm_rtaid=g0oAqkoUTKmCRxE_qaussw.1642107994621.c9ef25b080d3fa8304210acd34eca8a9&_x_zm_rhtaid=310)
+* 01/18 - Stacks and Queues: [video](https://us02web.zoom.us/rec/play/m1O2dXG7c0tVFSAhJ1-CcO388TdDhhIQcWsTcoYn_9spMwmF9Ji7FeoBb6r6Eq6fxnlMb2vU5nK4N65M.YbwL7prU5xorwlpQ?continueMode=true&_x_zm_rtaid=6NI3kU_ZQ4GOZBCgd_Dmig.1642531894305.579ff03df5ba5d73a4b519fedc5f7915&_x_zm_rhtaid=272)
+* 01/19 - Hash Maps: [video](https://us02web.zoom.us/rec/play/fKOib4Ocq4hcXBeD3yqKLL_2W3oGXc8pl9rmeNLQwjFFCGr84fNYUIb1AqLuP2IH_jsw9R2IMXLUNAM2.NUEUGA80JoYAXDag?continueMode=true)
+* 01/19 - Linked List Office Hours: [video](https://us02web.zoom.us/rec/play/SPoMoi-OPWfITE-zrZU7FCFPCJxc7oCAdWovfJH5pa1Vst9V0qgd_Uk3j3lrc85z9G1mZvSbI3wuisZP.Og5MhYLS8emPy3BQ?continueMode=true)
+* 01/20 - Recursion: [video](https://us02web.zoom.us/rec/play/zSnWouI_zhl39ZQyIEeeHg3jD64BcJ3l28rYymNNlTWmdpCqhqS5bS8A75tuuMDgX0x-CI_zswWzS3_j.WZ_Ps74-olYOl_t_?continueMode=true&_x_zm_rtaid=EVYqaiorSP6_V_uV0pGCtw.1642735198211.dcf3380c57aab48b0a6e6797c6fb830e&_x_zm_rhtaid=165)
+* 01/24 - Trees: [video](https://us02web.zoom.us/rec/share/aPfZ1XteccjGhMDJCSEvCcOg0QuQ4QqLORmbu7WSr99bHLKipvxMgBNqQrRVRcek.rR0q9Y7dRVLywzlY?startTime=1643038465000)
+* 01/25 - Graphs: [video](https://us02web.zoom.us/rec/share/h5DB93PGzP-RTFODSkU_n2Iq3NS6lB2OxdgRPkr4K8xOPyUV75bBQM6DpW3aJ2sG.im_D9f_J0C-_jCoi?startTime=1643124869000)
+* 01/26 - Sorting: [video](https://us02web.zoom.us/rec/share/C7_Lpym4hN0lunXxC957MmHeZ_aosm80moyPCbE_SndJhMyia_AMh4zP0BIuaUKM.Ymz9g2Wq3RJV99xV?startTime=1643212548000)
