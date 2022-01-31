@@ -70,3 +70,6 @@
 * 01/24 - Trees: [video](https://us02web.zoom.us/rec/share/aPfZ1XteccjGhMDJCSEvCcOg0QuQ4QqLORmbu7WSr99bHLKipvxMgBNqQrRVRcek.rR0q9Y7dRVLywzlY?startTime=1643038465000)
 * 01/25 - Graphs: [video](https://us02web.zoom.us/rec/share/h5DB93PGzP-RTFODSkU_n2Iq3NS6lB2OxdgRPkr4K8xOPyUV75bBQM6DpW3aJ2sG.im_D9f_J0C-_jCoi?startTime=1643124869000)
 * 01/26 - Sorting: [video](https://us02web.zoom.us/rec/share/C7_Lpym4hN0lunXxC957MmHeZ_aosm80moyPCbE_SndJhMyia_AMh4zP0BIuaUKM.Ymz9g2Wq3RJV99xV?startTime=1643212548000)
+
+## Unit 5
+* 01/31 - Intro to DOM: [video](https://us02web.zoom.us/rec/share/fflPcQ2m33EYQOe-K97NkxTblNxhJOViDnCO__tqQXs3TaSlD_SSa42O-k91crit.m8eVloMhQmeCv3sD?startTime=1643643236000)
