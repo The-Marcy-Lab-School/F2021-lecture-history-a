@@ -73,3 +73,4 @@
 
 ## Unit 5
 * 01/31 - Intro to DOM: [video](https://us02web.zoom.us/rec/share/fflPcQ2m33EYQOe-K97NkxTblNxhJOViDnCO__tqQXs3TaSlD_SSa42O-k91crit.m8eVloMhQmeCv3sD?startTime=1643643236000)
+* 02/01 - DOM API: [video](https://us02web.zoom.us/rec/share/E_sQrJqR-prWnIlhSBsKhulaTPhdDtjAC2MNgULqvBc5eBFoxMHYafF2AAwXZRtJ.QTwRt3acQuqbgjPE?startTime=1643729927000)
