@@ -75,3 +75,4 @@
 * 01/31 - Intro to DOM: [video](https://us02web.zoom.us/rec/share/fflPcQ2m33EYQOe-K97NkxTblNxhJOViDnCO__tqQXs3TaSlD_SSa42O-k91crit.m8eVloMhQmeCv3sD?startTime=1643643236000)
 * 02/01 - DOM API: [video](https://us02web.zoom.us/rec/share/E_sQrJqR-prWnIlhSBsKhulaTPhdDtjAC2MNgULqvBc5eBFoxMHYafF2AAwXZRtJ.QTwRt3acQuqbgjPE?startTime=1643729927000)
 * 02/02 - Events: [video](https://us02web.zoom.us/rec/share/Uifg57wxBKs-hmDC8inPihMdtuky0YdQOzI9QHeyjTErHLLXCa8mSh8JAe8MiGrZ.z_h_HFrfPlBM9onY?startTime=1643816025000)
+* 02/03 - Forms: [video](https://us02web.zoom.us/rec/share/b_aSGz25v6hbn28Xzuv9sELohGKAeCnIzTxfaMWEOrKEcyLJqqJrfsw61lY3R9bZ.2if_VsSoXW4AGIcq?startTime=1643903266000)
