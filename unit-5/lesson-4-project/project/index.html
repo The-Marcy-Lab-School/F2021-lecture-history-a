@@ -6,9 +6,29 @@
     <title>Wheel of Fortune!</title>
     <script src="./js/randomWord.js"></script>
     <script src="./js/index.js"></script>
-
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    
+    <h1 id="word-display">-----</h1>
+    <button id="start-game-button">Start</button>
+    <form id="guess-four-letters-forms">
+        <label>Constanant 1:</label>
+        <input id="constanant1" type="text"/>
+        <br>
+        <label>Constanant 2:</label>
+        <input id="constanant2" type="text"/>
+        <br>
+        <label>Constanant 3:</label>
+        <input id="constanant3" type="text"/>
+        <br>
+        <label>Vowel:</label>
+        <input id="vowel" type="text"/>
+        <br>
+        <input type="submit" value="Choose Letters!">
+    </form>
+    <form id="final-guess-form">
+        <input id="guess-input" type="text">
+        <input type="submit" value="Guess the word!">
+    </form>
 </body>
 </html>

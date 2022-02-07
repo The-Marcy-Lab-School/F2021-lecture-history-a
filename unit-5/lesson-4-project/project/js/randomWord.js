@@ -246,9 +246,8 @@ const words = [
     "your","yourself","youth","zero","zebra","zipper","zoo","zulu"
   ];
 
-  const getRandomWord = (maxLength=5) => {
-      const correctSize = words.filter((word) => word.length >= maxLength );
+  const getRandomWord = (minLength=5) => {
+      const correctSize = words.filter((word) => word.length >= minLength );
       const index = Math.floor(Math.random() * correctSize.length);
-
       return correctSize[index];
   }
