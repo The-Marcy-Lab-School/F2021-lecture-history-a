@@ -1,24 +1,32 @@
 # Lesson 2: Events
+- The best web pages are the one that interact with the user!
+
+- How does a web page know when the user clicked on something?
+- Or when a user fills out a form?
+- Or maybe you want the webpage/webapp to change 
 
 ## Key Terms
-* event
+* Event
 * event listener / event handler
+    click listener => liking the image
+    press X => jump
+
+    `element.addEventListener("type", eventHandler)`
+
 * DOMContentLoaded
+* callbacks
 * click event
 * propagation
-* default actions
-* callbacks
+* `event.target`
+* `event.currentTarget`
+* timers
 
-## Essential Questions
-+ What are some of the different types of events we might want to respond to when working with code?
-+ How might we apply object-oriented principles and best-practices to programming for the browser? 
+## Types of [Events](https://developer.mozilla.org/en-US/docs/Web/Events)
+* 'click'  
+* 'submit'
+* 'DOMContentLoaded'
 
-## Learning Assignments
-* **Codecademy:** [Building Interactive JavaScript Websites](https://www.codecademy.com/learn/build-interactive-websites) 
-    * DOM Events with JavaScript section
-* **Book:** Eloquent JavaScript: Chapter 15 ([Handling Events](https://eloquentjavascript.net/15_event.html) )
-* **Tutorial:** (Optional) [Khan Academy: DOM Events (Through "Cat Stache")](https://www.khanacademy.org/computing/computer-programming/html-css-js/html-js-dom-events#html-js-dom-events)
-
-
-## Practice
-* [Practice](./practice)
+## Essential Questions and Key Take Aways
+* What are some of the different types of events we might want to respond to when working with code?
+* What are event listeners? Event handlers?
+* How do we attach them to an element? 

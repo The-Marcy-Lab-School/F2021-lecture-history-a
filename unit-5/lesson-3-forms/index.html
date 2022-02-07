@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Forms</title>
+  <script src="script.js"></script> 
+</head>
+<body>
+  <h1>Click on Me!</h1>
+  <table id="instructor-table" class="table">
+    <thead class="thead-dark">
+      <tr>
+        <th scope="col">First</th>
+        <th scope="col">Last</th>
+        <th scope="col">Email</th>
+      </tr>
+    </thead>
+    <tbody id="table-body">
+    </tbody>
+  </table>
+  <form id="my-form" class="a-form">
+    <h3>Add a New Instructor</h3>
+    <label for="first-name-input">First Name:</label>
+    <input id="first-name-input" type="text" required></input>
+    <br>
+    <label for="last-name-input">Last Name:</label>
+    <input id="last-name-input" type="text" required>
+    <br>
+    <label for="email-input">Email:</label>
+    <input id="email-input" type="text" required>
+    <br>
+    <input id="submit-input" type="submit" value="Add To The Marcy Family!">
+  </form>
+</body>
+</html>
