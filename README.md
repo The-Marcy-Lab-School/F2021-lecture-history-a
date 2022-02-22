@@ -76,3 +76,9 @@
 * 02/01 - DOM API: [video](https://us02web.zoom.us/rec/share/E_sQrJqR-prWnIlhSBsKhulaTPhdDtjAC2MNgULqvBc5eBFoxMHYafF2AAwXZRtJ.QTwRt3acQuqbgjPE?startTime=1643729927000)
 * 02/02 - Events: [video](https://us02web.zoom.us/rec/share/Uifg57wxBKs-hmDC8inPihMdtuky0YdQOzI9QHeyjTErHLLXCa8mSh8JAe8MiGrZ.z_h_HFrfPlBM9onY?startTime=1643816025000)
 * 02/03 - Forms: [video](https://us02web.zoom.us/rec/share/b_aSGz25v6hbn28Xzuv9sELohGKAeCnIzTxfaMWEOrKEcyLJqqJrfsw61lY3R9bZ.2if_VsSoXW4AGIcq?startTime=1643903266000)
+* 02/07 - Putting It All Together (Wheel of Fortune): [video](https://us02web.zoom.us/rec/share/05SYdeGBSbJE1WvY0VcGx-lzdRV3m0aNzflZxt-OMQcdTh9p-87g9EriHClitIis.8ZL94fB0KbLJfDmR?startTime=1644248015000)
+
+## Unit 6
+* 02/17 - Intro to HTTP: [video](https://www.youtube.com/watch?v=lEzYPktMzdg)
+* 02/18 - Fetch: [video](https://us02web.zoom.us/rec/share/GdSPLy7gms-upTeXMG4uE0lGsm5_3ebu6HegQAW4dQCJZdp4ydRxd00Hqh_yZfJG.ZVTG6biWhP0w1FaM?startTime=1645194944000)
+* 02/22 - Intro to POSTs: [video](https://us02web.zoom.us/rec/share/s0jmLbm7uhxsqG-EBPs02_VogrruXiSbaNIAqybGeW85tZKXj0yAvtVvjg00Nkta.vJ1uZ8lVTJPG3CDu?startTime=1645544083000)
