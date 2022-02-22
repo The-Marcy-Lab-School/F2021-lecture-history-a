@@ -81,3 +81,4 @@
 ## Unit 6
 * 02/17 - Intro to HTTP: [video](https://www.youtube.com/watch?v=lEzYPktMzdg)
 * 02/18 - Fetch: [video](https://us02web.zoom.us/rec/share/GdSPLy7gms-upTeXMG4uE0lGsm5_3ebu6HegQAW4dQCJZdp4ydRxd00Hqh_yZfJG.ZVTG6biWhP0w1FaM?startTime=1645194944000)
+* 02/22 - Intro to POSTs: [video](https://us02web.zoom.us/rec/share/s0jmLbm7uhxsqG-EBPs02_VogrruXiSbaNIAqybGeW85tZKXj0yAvtVvjg00Nkta.vJ1uZ8lVTJPG3CDu?startTime=1645544083000)
