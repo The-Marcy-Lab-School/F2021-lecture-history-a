@@ -84,3 +84,6 @@
 * 02/22 - Intro to POSTs: [video](https://us02web.zoom.us/rec/share/s0jmLbm7uhxsqG-EBPs02_VogrruXiSbaNIAqybGeW85tZKXj0yAvtVvjg00Nkta.vJ1uZ8lVTJPG3CDu?startTime=1645544083000)
 * 02/22 - Github GET and POST fetch: [video](https://us02web.zoom.us/rec/share/B9nsdzgiPHE65gKtqXh4w7c_6qMRxe3fWFVPzlQhlpc7Vy5GgAE_6AxlKqJBQ1qp.rxoneSXyNUzbu9xK?startTime=1645553352000)
 * 02/25 - AJAX Patterns: [video](https://us02web.zoom.us/rec/share/HttCgXTFvLGdAWMlzpCf7otkcMpEw7ZOK7vCwoJTiNdm9DI5jyuj-c9LfduDApTZ.eD1-QRfHoqcdt2x6?startTime=1645800474000)
+
+## Unit 7
+* 03/15 - Intro to Node: [video](https://youtu.be/7pYgHLwoWww)
