@@ -87,3 +87,4 @@
 
 ## Unit 7
 * 03/15 - Intro to Node: [video](https://youtu.be/7pYgHLwoWww)
+* 03/16 - HTTP Server: [Erwins video](https://us02web.zoom.us/rec/play/JQdlYvVk00PzQJrxWuoGSh7elFTZA64Hmb_m2ZLTbF-xwAqtBNEt8teM16pPnsTXRavev3pVaNYyNG1L.x8jKMJBSTzMREc2o?continueMode=true)
