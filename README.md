@@ -88,3 +88,4 @@
 ## Unit 7
 * 03/15 - Intro to Node: [video](https://youtu.be/7pYgHLwoWww)
 * 03/16 - HTTP Server: [Erwins video](https://us02web.zoom.us/rec/play/JQdlYvVk00PzQJrxWuoGSh7elFTZA64Hmb_m2ZLTbF-xwAqtBNEt8teM16pPnsTXRavev3pVaNYyNG1L.x8jKMJBSTzMREc2o?continueMode=true)
+* 3/18 - Intro to Express: [video](https://us02web.zoom.us/rec/share/LKw4suarNO5zdbN3F7QJ25I13_kpAcK7rifAFxeGXVOVyDkBwRrzB3QZ2ugzSD7w.qI3QTKKfpb8ZMUnh?startTime=1647610605000)
