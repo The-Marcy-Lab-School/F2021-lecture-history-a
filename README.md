@@ -91,3 +91,4 @@
 * 3/18 - Intro to Express: [video](https://us02web.zoom.us/rec/share/LKw4suarNO5zdbN3F7QJ25I13_kpAcK7rifAFxeGXVOVyDkBwRrzB3QZ2ugzSD7w.qI3QTKKfpb8ZMUnh?startTime=1647610605000)
 * 3/21 - Express API: [part 1 video](https://us02web.zoom.us/rec/share/mh_hHje2JfdPo1wvzkZm0AH6wFLvYfSD5E4lYgYqkiMfZfFsgAY12EyAOg59zZPY.bGekM93934L1Zgbt?startTime=1647873199000) | [part 2 video](https://us02web.zoom.us/rec/share/eEzA2gF4D3Ky7RwDg0dMhrP03anK2Q1nRg-NaJu47IPYiQZYTIifmuLhxjKWYeKW.n6iQAfoRVrC5WM1g?startTime=1647882169000)
 * 3/23 - SQL: [video](https://us02web.zoom.us/rec/share/6rnBxV3Cnd-29SW_2OHmm4CjOv7NtHJrL073kujVDE-KuaQfAfr9kpmFcfe2BV3V.b3pnGjPbmll42Wfl?startTime=1648048896000)
+* 3/25 - SQL Joins: [video](https://us02web.zoom.us/rec/share/6bZUfsoOEUKXy_M5YEelA8Ku5Alc_OqHi4c7eOdI0ci2NZ_gqSsEjK1OAQOGVBWC.b8MTocZgeAwElEbT?startTime=1648216048000)
