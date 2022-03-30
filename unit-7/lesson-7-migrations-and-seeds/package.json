@@ -1,0 +1,27 @@
+{
+  "name": "migrations-and-seeds",
+  "version": "1.0.0",
+  "description": "This repo talks about what they are and why they're useful. [Knex Docs](http://knexjs.org)",
+  "main": "index.js",
+  "scripts": {
+    "migrate" : "knex migrate:latest",
+    "rollback" : "knex migrate:rollback",
+    "seed": "knex seed:run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Marcy-Lab-School/migrations-and-seeds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-Marcy-Lab-School/migrations-and-seeds/issues"
+  },
+  "homepage": "https://github.com/The-Marcy-Lab-School/migrations-and-seeds#readme",
+  "dependencies": {
+    "knex": "^1.0.4",
+    "pg": "^8.7.3"
+  }
+}

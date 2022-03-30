@@ -1,0 +1,12 @@
+{
+  "name": "lesson_1_http_server",
+  "version": "1.0.0",
+  "description": "* How can we use JavaScript on the server to create dynamic web applications? * What is the purpose of HTTP Status Codes? Why is this important? * How does Node handle routes and routing for us in our web applications?",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

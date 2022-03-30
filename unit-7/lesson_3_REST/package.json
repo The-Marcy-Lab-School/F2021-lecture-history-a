@@ -1,0 +1,17 @@
+{
+  "name": "lesson_3_rest",
+  "version": "1.0.0",
+  "description": "- Building servers! with Node and Express - Building an API! - Node: JS outside the browser - Express: build API quickly",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
+}
