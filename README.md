@@ -93,3 +93,5 @@
 * 3/23 - SQL: [video](https://us02web.zoom.us/rec/share/6rnBxV3Cnd-29SW_2OHmm4CjOv7NtHJrL073kujVDE-KuaQfAfr9kpmFcfe2BV3V.b3pnGjPbmll42Wfl?startTime=1648048896000)
 * 3/25 - SQL Joins: [video](https://us02web.zoom.us/rec/share/6bZUfsoOEUKXy_M5YEelA8Ku5Alc_OqHi4c7eOdI0ci2NZ_gqSsEjK1OAQOGVBWC.b8MTocZgeAwElEbT?startTime=1648216048000)
 * 3/28 - Schema Design: [video](https://us02web.zoom.us/rec/share/Ao07tdLVbTiQ-KQ7X_x8YAZOcMDWq4qTTQykHG3ohINdLFen2104acI0d6kEUNHb.v_sEWXUjsMSlx6OX?startTime=1648478011000)
+* 3/30 - Migrations and Seeding: [video](https://us02web.zoom.us/rec/share/EjpygKylR_nSMvrO1jHCyUYDEWRBN1UpD2BnsII1VA3SYSWRXLLU76ihDZVj4Yjs.jyjlIXrcSSg4st3j?startTime=1648652671000)
+* 4/01 - [pg](https://us02web.zoom.us/rec/share/7FADg-nk2pxI39HOJg-i37XLXFjJLosBaDtX7bqRyr85Kf3jx7kguFbH5Avu3Znn.z9ttu0Fhx1Zr5cvA?startTime=1648823613000)
