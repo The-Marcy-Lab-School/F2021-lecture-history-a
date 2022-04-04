@@ -94,5 +94,5 @@
 * 3/25 - SQL Joins: [video](https://us02web.zoom.us/rec/share/6bZUfsoOEUKXy_M5YEelA8Ku5Alc_OqHi4c7eOdI0ci2NZ_gqSsEjK1OAQOGVBWC.b8MTocZgeAwElEbT?startTime=1648216048000)
 * 3/28 - Schema Design: [video](https://us02web.zoom.us/rec/share/Ao07tdLVbTiQ-KQ7X_x8YAZOcMDWq4qTTQykHG3ohINdLFen2104acI0d6kEUNHb.v_sEWXUjsMSlx6OX?startTime=1648478011000)
 * 3/30 - Migrations and Seeding: [video](https://us02web.zoom.us/rec/share/EjpygKylR_nSMvrO1jHCyUYDEWRBN1UpD2BnsII1VA3SYSWRXLLU76ihDZVj4Yjs.jyjlIXrcSSg4st3j?startTime=1648652671000)
-* 4/01 - pg module :[video](https://us02web.zoom.us/rec/share/7FADg-nk2pxI39HOJg-i37XLXFjJLosBaDtX7bqRyr85Kf3jx7kguFbH5Avu3Znn.z9ttu0Fhx1Zr5cvA?startTime=1648823613000)
+* 4/01 - pg module: [video](https://us02web.zoom.us/rec/share/7FADg-nk2pxI39HOJg-i37XLXFjJLosBaDtX7bqRyr85Kf3jx7kguFbH5Avu3Znn.z9ttu0Fhx1Zr5cvA?startTime=1648823613000)
 * 4/04 - MVC: [part 1 video](https://us02web.zoom.us/rec/share/Zk20XL9SCMGVHAh9ixSUJJ-uIUtaRR8tXYuE2MwiR-yvgMSD8zb_r3vYAo-ULYv5.CLKQeok6xh1UOYPh?startTime=1649083184000) [part 2 video](https://us02web.zoom.us/rec/share/d26eLhv8CANwgJAO4WNw01J78uHwf6ElIeoFwnVvJTMXeTM4L2Q9ZmgbE9flv0fV.Q-1nHmP3unqU7TdJ?startTime=1649091884000)
