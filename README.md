@@ -96,4 +96,4 @@
 * 3/30 - Migrations and Seeding: [video](https://us02web.zoom.us/rec/share/EjpygKylR_nSMvrO1jHCyUYDEWRBN1UpD2BnsII1VA3SYSWRXLLU76ihDZVj4Yjs.jyjlIXrcSSg4st3j?startTime=1648652671000)
 * 4/01 - pg module: [video](https://us02web.zoom.us/rec/share/7FADg-nk2pxI39HOJg-i37XLXFjJLosBaDtX7bqRyr85Kf3jx7kguFbH5Avu3Znn.z9ttu0Fhx1Zr5cvA?startTime=1648823613000)
 * 4/04 - MVC: [part 1 video](https://us02web.zoom.us/rec/share/Zk20XL9SCMGVHAh9ixSUJJ-uIUtaRR8tXYuE2MwiR-yvgMSD8zb_r3vYAo-ULYv5.CLKQeok6xh1UOYPh?startTime=1649083184000) [part 2 video](https://us02web.zoom.us/rec/share/d26eLhv8CANwgJAO4WNw01J78uHwf6ElIeoFwnVvJTMXeTM4L2Q9ZmgbE9flv0fV.Q-1nHmP3unqU7TdJ?startTime=1649091884000)
-* 4/06 - [Express API Review](https://us02web.zoom.us/rec/share/2CDDfUcaVGWUSNfNxNxDeiGry4HVoIrSRD1oBk0mSLQSCD3hyn0fhEdQAMR84HND.Z-9wHLkkMAxzemhk?startTime=1649257606000)
+* 4/06 - Express API Review: [video](https://us02web.zoom.us/rec/share/2CDDfUcaVGWUSNfNxNxDeiGry4HVoIrSRD1oBk0mSLQSCD3hyn0fhEdQAMR84HND.Z-9wHLkkMAxzemhk?startTime=1649257606000)
