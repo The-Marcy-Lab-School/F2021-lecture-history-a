@@ -99,3 +99,6 @@
 * 4/04 - MVC: [part 1 video](https://us02web.zoom.us/rec/share/Zk20XL9SCMGVHAh9ixSUJJ-uIUtaRR8tXYuE2MwiR-yvgMSD8zb_r3vYAo-ULYv5.CLKQeok6xh1UOYPh?startTime=1649083184000) [part 2 video](https://us02web.zoom.us/rec/share/d26eLhv8CANwgJAO4WNw01J78uHwf6ElIeoFwnVvJTMXeTM4L2Q9ZmgbE9flv0fV.Q-1nHmP3unqU7TdJ?startTime=1649091884000)
 * 4/06 - Express API Review: [video](https://us02web.zoom.us/rec/share/2CDDfUcaVGWUSNfNxNxDeiGry4HVoIrSRD1oBk0mSLQSCD3hyn0fhEdQAMR84HND.Z-9wHLkkMAxzemhk?startTime=1649257606000)
 * 4/13 - Auth: [video](https://us02web.zoom.us/rec/share/yaD2-5pQ61PUm6KrBG04TV3NfVbhkeLatoJrj91LpuV-nNxOgt2QmezrsRg_q4WG.S9lu0evTLELMKd7S?startTime=1649861037000)
+
+## Unit 8
+* 4/19 - Intro to React: [video](https://www.youtube.com/watch?v=MtgJ9U6Ur04)
