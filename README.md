@@ -102,3 +102,4 @@
 
 ## Unit 8
 * 4/19 - Intro to React: [video](https://www.youtube.com/watch?v=MtgJ9U6Ur04)
+* 4/20 - Components and Props: [video](https://us02web.zoom.us/rec/share/eSQ-5t0xVZ2W_sVXFh4oq5rJ5XUQ9ti2XHZY-XYdEpiLh-sn5EG0CwJdcXe1RWMT.WCaU9QJTXvnnTS-b?startTime=1650465235000)
