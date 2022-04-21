@@ -104,3 +104,4 @@
 * 4/19 - Intro to React: [video](https://www.youtube.com/watch?v=MtgJ9U6Ur04)
 * 4/20 - Components and Props: [video](https://us02web.zoom.us/rec/share/eSQ-5t0xVZ2W_sVXFh4oq5rJ5XUQ9ti2XHZY-XYdEpiLh-sn5EG0CwJdcXe1RWMT.WCaU9QJTXvnnTS-b?startTime=1650465235000)
 * 4/20 - Lab review: [video](https://us02web.zoom.us/rec/share/frzGFqgmFeUjHOeBd81QDRUJrapwHo15fNLs5pZfK7tjXEhtm0RxhjKozmsMCpZH.Sp5hr_Q3FZvadwff?startTime=1650482890000)
+* 4/21 - State: [video](https://us02web.zoom.us/rec/share/CHlMiUPTXQxy9enR9tmOdavcpE0LefSZBp2KXdb3qe7Jl-wIV-7lJrlA5BgdkdVQ.h6YpJcL0gZrXRMhu?startTime=1650560511000)
