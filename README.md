@@ -107,3 +107,4 @@
 * 4/21 - State: [video](https://us02web.zoom.us/rec/share/CHlMiUPTXQxy9enR9tmOdavcpE0LefSZBp2KXdb3qe7Jl-wIV-7lJrlA5BgdkdVQ.h6YpJcL0gZrXRMhu?startTime=1650560511000)
 * 4/22 - Forms: [video](https://us02web.zoom.us/rec/share/k5iuJiZSVLZbbLiAPVVDRV-cGDJOoSyOJO10mrMz61zPtbdWzpJX0n4_l9LGEtCT.hMRvrRQzYrNxpCX-)
 * 4/25 - Thinking in React: [video part 1](https://us02web.zoom.us/rec/share/3pTd1GAZeI_tPiHA39P2rlKgPLvawYHmQttgk583R-Hmqx-_L4uOnmjyz8auipLr.nkJ3zUpD1rAljxQX?startTime=1650897178000) | [video part 2](https://us02web.zoom.us/rec/share/AGljhdHztIi1U-Atz3pJj0b9f3C2qEECHSBp6_WMFvag9eJZQHWiZQzy7QQS6FyM.N1MT8O7f4wSQZkQ4?startTime=1650902812000)
+* 4/27 - useEffect: [video](https://us02web.zoom.us/rec/share/cxnjT2S8cE2gnzAQ6G04DrSVeLGxxlYAk6gH8X8FKsCxxw4s_pwDwTlpNFrc-jsC.qyLyedt3awqApj7A?startTime=1651081784000)
